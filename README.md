@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **-------------------------------**
 
-- 📫 How to reach me **abc@gmail.co**
+- 📫 Reach me at **probhit08@gmail.com**
 
 - ⚡ Fun fact **I'm not done**
 
