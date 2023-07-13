@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Shobhit Singh</h1>
+<h1 align="center">Hi, I'm Shobhit Singh 👋🏻</h1>
 <h4 align="center">MSCS @ University Of Florida</h4>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
