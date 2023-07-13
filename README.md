@@ -6,16 +6,6 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikaustubh12&label=Profile%20views&color=0e75b6&style=flat" alt="manikaustubh12" /> </p>
 
-- 🔭 I’m currently working on **--------**
-
-- 🌱 I’m currently learning **------------------------**
-
-- 💬 Ask me about **-------------------------------**
-
-- 📫 Reach me at **probhit08@gmail.com**
-
-- ⚡ Fun fact **I'm not done**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mani-kaustubh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mani-kaustubh/" height="30" width="40" /></a>
